@@ -1,0 +1,30 @@
+1*Cigánypecsenye*2300*Krumplipüré.
+3*Rizs*600*Nincs hozzá extra.
+4*Margarita Pizza*1800*ketchup, ananász.
+8*Szezámmagos Csirke*800*sültkrumpli.
+10*Pizza*1500*Nincs hozzá extra.
+1*Babgulyás*1500*Nincs hozzá extra.
+7*BigMac*1300*Coca Cola, sültkrumpli.
+7*Sajtburger*700*Coca Cola, sültkrumpli.
+2*Bableves*1100*Kenyér.
+5*Gyümölcsleves*500*Kenyér.
+6*Sajttorta*400*Espresso.
+9*Sajtburger*600*Coca Cola, sültkrumpli.
+9*Whooper*1200*Coca Cola, sültkrumpli.
+2*Lángos*1000*Sajt, Tejföl.
+4*Bolognai spagetti*1200*Ketchup.
+10*Bolognai spagetti*1500*Ketchup.
+6*Latte*750*Nincs hozzá extra.
+5*Latte*700*Nincs hozzá extra.
+8*Rizs*500*Nincs hozzá extra.
+3*Szezámmagos Csirke*850*sültkrumpli.
+5*Rántotthús*900*rizs.
+1*Rántotthús*700*sültkrumpli.
+2*Hamburger*650*sültkrumpli.
+3*Mézes Tészta*450*Nincs hozzá extra.
+4*Húsimádó Pizza*2100*Nincs hozzá extra.
+6*Espresso*450*Nincs hozzá extra.
+7*Csibeburger*550*Coca Cola, sültkrumpli.
+8*Bundás Csirke*670*Rizs.
+9*Chili Cheese*550*Coca Cola, sültkrumpli.
+10*Cheesy Pasta*1200*Nincs hozzá extra.
